@@ -4,672 +4,404 @@
       "location": "africa",
       "species": [
         {
-          "scientificName": "Parus major",
+          "scientName": "Parus major",
           "commonName": "Great Tit"
         },
         {
-          "scientificName": "Turdus merula",
+          "scientName": "Turdus merula",
           "commonName": "Common Blackbird"
         },
         {
-          "scientificName": "Fringilla coelebs",
+          "scientName": "Fringilla coelebs",
           "commonName": "Common Chaffinch"
         },
         {
-          "scientificName": "Phylloscopus collybita",
+          "scientName": "Phylloscopus collybita",
           "commonName": "Common Chiffchaff"
         },
         {
-          "scientificName": "Erithacus rubecula",
+          "scientName": "Erithacus rubecula",
           "commonName": "European Robin"
         },
         {
-          "scientificName": "Turdus philomelos",
+          "scientName": "Turdus philomelos",
           "commonName": "Song Thrush"
         },
         {
-          "scientificName": "Sylvia atricapilla",
+          "scientName": "Sylvia atricapilla",
           "commonName": "Eurasian Blackcap"
         },
         {
-          "scientificName": "Loxia curvirostra",
+          "scientName": "Loxia curvirostra",
           "commonName": "Red Crossbill"
         },
         {
-          "scientificName": "Phylloscopus trochilus",
+          "scientName": "Phylloscopus trochilus",
           "commonName": "Willow Warbler"
         },
         {
-          "scientificName": "Troglodytes troglodytes",
+          "scientName": "Troglodytes troglodytes",
           "commonName": "Eurasian Wren"
         },
         {
-          "scientificName": "Curruca communis",
+          "scientName": "Curruca communis",
           "commonName": "Common Whitethroat"
         },
         {
-          "scientificName": "Emberiza citrinella",
+          "scientName": "Emberiza citrinella",
           "commonName": "Yellowhammer"
         },
         {
-          "scientificName": "Strix aluco",
+          "scientName": "Strix aluco",
           "commonName": "Tawny Owl"
         },
         {
-          "scientificName": "Emberiza calandra",
+          "scientName": "Emberiza calandra",
           "commonName": "Corn Bunting"
         },
         {
-          "scientificName": "Alauda arvensis",
+          "scientName": "Alauda arvensis",
           "commonName": "Eurasian Skylark"
         },
         {
-          "scientificName": "Periparus ater",
+          "scientName": "Periparus ater",
           "commonName": "Coal Tit"
         },
         {
-          "scientificName": "Dendrocopos major",
+          "scientName": "Dendrocopos major",
           "commonName": "Great Spotted Woodpecker"
         },
         {
-          "scientificName": "Passer domesticus",
+          "scientName": "Passer domesticus",
           "commonName": "House Sparrow"
         },
         {
-          "scientificName": "Prunella modularis",
+          "scientName": "Prunella modularis",
           "commonName": "Dunnock"
         },
         {
-          "scientificName": "Passer montanus",
+          "scientName": "Passer montanus",
           "commonName": "Eurasian Tree Sparrow"
         },
         {
-          "scientificName": "Curruca curruca",
+          "scientName": "Curruca curruca",
           "commonName": "Lesser Whitethroat"
         },
         {
-          "scientificName": "Motacilla flava",
+          "scientName": "Motacilla flava",
           "commonName": "Western Yellow Wagtail"
         },
         {
-          "scientificName": "Luscinia megarhynchos",
+          "scientName": "Luscinia megarhynchos",
           "commonName": "Common Nightingale"
         },
         {
-          "scientificName": "Rallus aquaticus",
+          "scientName": "Rallus aquaticus",
           "commonName": "Water Rail"
         },
         {
-          "scientificName": "Turdus iliacus",
+          "scientName": "Turdus iliacus",
           "commonName": "Redwing"
         },
         {
-          "scientificName": "Corvus corax",
+          "scientName": "Corvus corax",
           "commonName": "Northern Raven"
         },
         {
-          "scientificName": "Gallinula chloropus",
+          "scientName": "Gallinula chloropus",
           "commonName": "Common Moorhen"
         },
         {
-          "scientificName": "Chloris chloris",
+          "scientName": "Chloris chloris",
           "commonName": "European Greenfinch"
         },
         {
-          "scientificName": "Carduelis carduelis",
+          "scientName": "Carduelis carduelis",
           "commonName": "European Goldfinch"
         },
         {
-          "scientificName": "Anthus trivialis",
+          "scientName": "Anthus trivialis",
           "commonName": "Tree Pipit"
         },
         {
-          "scientificName": "Fulica atra",
+          "scientName": "Fulica atra",
           "commonName": "Eurasian Coot"
         },
         {
-          "scientificName": "Sitta europaea",
+          "scientName": "Sitta europaea",
           "commonName": "Eurasian Nuthatch"
         },
         {
-          "scientificName": "Cuculus canorus",
+          "scientName": "Cuculus canorus",
           "commonName": "Common Cuckoo"
         },
         {
-          "scientificName": "Garrulus glandarius",
+          "scientName": "Garrulus glandarius",
           "commonName": "Eurasian Jay"
         },
         {
-          "scientificName": "Acrocephalus palustris",
+          "scientName": "Acrocephalus palustris",
           "commonName": "Marsh Warbler"
         },
         {
-          "scientificName": "Regulus regulus",
+          "scientName": "Regulus regulus",
           "commonName": "Goldcrest"
         },
         {
-          "scientificName": "Sturnus vulgaris",
+          "scientName": "Sturnus vulgaris",
           "commonName": "Common Starling"
         },
         {
-          "scientificName": "Aegithalos caudatus",
+          "scientName": "Aegithalos caudatus",
           "commonName": "Long-tailed Tit"
         },
         {
-          "scientificName": "Emberiza schoeniclus",
+          "scientName": "Emberiza schoeniclus",
           "commonName": "Common Reed Bunting"
         },
         {
-          "scientificName": "Cettia cetti",
+          "scientName": "Cettia cetti",
           "commonName": "Cetti's Warbler"
         },
         {
-          "scientificName": "Acrocephalus scirpaceus",
+          "scientName": "Acrocephalus scirpaceus",
           "commonName": "Eurasian Reed Warbler"
         },
         {
-          "scientificName": "Hirundo rustica",
+          "scientName": "Hirundo rustica",
           "commonName": "Barn Swallow"
         },
         {
-          "scientificName": "Corvus corone",
+          "scientName": "Corvus corone",
           "commonName": "Carrion Crow"
         },
         {
-          "scientificName": "Actitis hypoleucos",
+          "scientName": "Actitis hypoleucos",
           "commonName": "Common Sandpiper"
         },
         {
-          "scientificName": "Gallinago gallinago",
+          "scientName": "Gallinago gallinago",
           "commonName": "Common Snipe"
         },
         {
-          "scientificName": "Linaria cannabina",
+          "scientName": "Linaria cannabina",
           "commonName": "Common Linnet"
         },
         {
-          "scientificName": "Sylvia borin",
+          "scientName": "Sylvia borin",
           "commonName": "Garden Warbler"
         },
         {
-          "scientificName": "Numenius arquata",
+          "scientName": "Numenius arquata",
           "commonName": "Eurasian Curlew"
         },
         {
-          "scientificName": "Emberiza hortulana",
+          "scientName": "Emberiza hortulana",
           "commonName": "Ortolan Bunting"
         },
         {
-          "scientificName": "Motacilla alba",
+          "scientName": "Motacilla alba",
           "commonName": "White Wagtail"
         },
         {
-          "scientificName": "Ardea cinerea",
+          "scientName": "Ardea cinerea",
           "commonName": "Grey Heron"
         },
         {
-          "scientificName": "Pyrrhula pyrrhula",
+          "scientName": "Pyrrhula pyrrhula",
           "commonName": "Eurasian Bullfinch"
         },
         {
-          "scientificName": "Phoenicurus phoenicurus",
+          "scientName": "Phoenicurus phoenicurus",
           "commonName": "Common Redstart"
         },
         {
-          "scientificName": "Turdus pilaris",
+          "scientName": "Turdus pilaris",
           "commonName": "Fieldfare"
         },
         {
-          "scientificName": "Tachybaptus ruficollis",
+          "scientName": "Tachybaptus ruficollis",
           "commonName": "Little Grebe"
         },
         {
-          "scientificName": "Muscicapa striata",
+          "scientName": "Muscicapa striata",
           "commonName": "Spotted Flycatcher"
         },
         {
-          "scientificName": "Phoenicurus ochruros",
+          "scientName": "Phoenicurus ochruros",
           "commonName": "Black Redstart"
         },
         {
-          "scientificName": "Tringa totanus",
+          "scientName": "Tringa totanus",
           "commonName": "Common Redshank"
         },
         {
-          "scientificName": "Acrocephalus schoenobaenus",
+          "scientName": "Acrocephalus schoenobaenus",
           "commonName": "Sedge Warbler"
         },
         {
-          "scientificName": "Corvus cornix",
+          "scientName": "Corvus cornix",
           "commonName": "Hooded Crow"
         },
         {
-          "scientificName": "Curruca melanocephala",
+          "scientName": "Curruca melanocephala",
           "commonName": "Sardinian Warbler"
         },
         {
-          "scientificName": "Acrocephalus dumetorum",
+          "scientName": "Acrocephalus dumetorum",
           "commonName": "Blyth's Reed Warbler"
         },
         {
-          "scientificName": "Spinus spinus",
+          "scientName": "Spinus spinus",
           "commonName": "Eurasian Siskin"
         },
         {
-          "scientificName": "Ficedula hypoleuca",
+          "scientName": "Ficedula hypoleuca",
           "commonName": "European Pied Flycatcher"
         },
         {
-          "scientificName": "Coccothraustes coccothraustes",
+          "scientName": "Coccothraustes coccothraustes",
           "commonName": "Hawfinch"
         },
         {
-          "scientificName": "Coturnix coturnix",
+          "scientName": "Coturnix coturnix",
           "commonName": "Common Quail"
         },
         {
-          "scientificName": "Athene noctua",
+          "scientName": "Athene noctua",
           "commonName": "Little Owl"
         },
         {
-          "scientificName": "Serinus serinus",
+          "scientName": "Serinus serinus",
           "commonName": "European Serin"
         },
         {
-          "scientificName": "Hippolais icterina",
+          "scientName": "Hippolais icterina",
           "commonName": "Icterine Warbler"
         },
         {
-          "scientificName": "Oriolus oriolus",
+          "scientName": "Oriolus oriolus",
           "commonName": "Eurasian Golden Oriole"
         },
         {
-          "scientificName": "Certhia brachydactyla",
+          "scientName": "Certhia brachydactyla",
           "commonName": "Short-toed Treecreeper"
         },
         {
-          "scientificName": "Caprimulgus europaeus",
+          "scientName": "Caprimulgus europaeus",
           "commonName": "European Nightjar"
         },
         {
-          "scientificName": "Asio otus",
+          "scientName": "Asio otus",
           "commonName": "Long-eared Owl"
         },
         {
-          "scientificName": "Regulus ignicapilla",
+          "scientName": "Regulus ignicapilla",
           "commonName": "Common Firecrest"
         },
         {
-          "scientificName": "Turdus viscivorus",
+          "scientName": "Turdus viscivorus",
           "commonName": "Mistle Thrush"
         },
         {
-          "scientificName": "Tringa ochropus",
+          "scientName": "Tringa ochropus",
           "commonName": "Green Sandpiper"
         },
         {
-          "scientificName": "Chroicocephalus ridibundus",
+          "scientName": "Chroicocephalus ridibundus",
           "commonName": "Black-headed Gull"
         },
         {
-          "scientificName": "Anthus pratensis",
+          "scientName": "Anthus pratensis",
           "commonName": "Meadow Pipit"
         },
         {
-          "scientificName": "Pica pica",
+          "scientName": "Pica pica",
           "commonName": "Eurasian Magpie"
         },
         {
-          "scientificName": "Phylloscopus sibilatrix",
+          "scientName": "Phylloscopus sibilatrix",
           "commonName": "Wood Warbler"
         },
         {
-          "scientificName": "Haematopus ostralegus",
+          "scientName": "Haematopus ostralegus",
           "commonName": "Eurasian Oystercatcher"
         },
         {
-          "scientificName": "Pluvialis apricaria",
+          "scientName": "Pluvialis apricaria",
           "commonName": "European Golden Plover"
         },
         {
-          "scientificName": "Anas platyrhynchos",
+          "scientName": "Anas platyrhynchos",
           "commonName": "Mallard"
         },
         {
-          "scientificName": "Luscinia svecica",
+          "scientName": "Luscinia svecica",
           "commonName": "Bluethroat"
         },
         {
-          "scientificName": "Tyto alba",
+          "scientName": "Tyto alba",
           "commonName": "Western Barn Owl"
         },
         {
-          "scientificName": "Lullula arborea",
+          "scientName": "Lullula arborea",
           "commonName": "Woodlark"
         },
         {
-          "scientificName": "Vanellus vanellus",
+          "scientName": "Vanellus vanellus",
           "commonName": "Northern Lapwing"
         },
         {
-          "scientificName": "Coloeus monedula",
+          "scientName": "Coloeus monedula",
           "commonName": "Western Jackdaw"
         },
         {
-          "scientificName": "Tringa nebularia",
+          "scientName": "Tringa nebularia",
           "commonName": "Common Greenshank"
         },
         {
-          "scientificName": "Numenius phaeopus",
+          "scientName": "Numenius phaeopus",
           "commonName": "Eurasian Whimbrel"
         },
         {
-          "scientificName": "Acrocephalus arundinaceus",
+          "scientName": "Acrocephalus arundinaceus",
           "commonName": "Great Reed Warbler"
         },
         {
-          "scientificName": "Nycticorax nycticorax",
+          "scientName": "Nycticorax nycticorax",
           "commonName": "Black-crowned Night Heron"
         },
         {
-          "scientificName": "Grus grus",
+          "scientName": "Grus grus",
           "commonName": "Common Crane"
         },
         {
-          "scientificName": "Calidris alpina",
+          "scientName": "Calidris alpina",
           "commonName": "Dunlin"
         },
         {
-          "scientificName": "Charadrius dubius",
+          "scientName": "Charadrius dubius",
           "commonName": "Little Ringed Plover"
         },
         {
-          "scientificName": "Anser anser",
+          "scientName": "Anser anser",
           "commonName": "Greylag Goose"
         },
         {
-          "scientificName": "Locustella naevia",
+          "scientName": "Locustella naevia",
           "commonName": "Common Grasshopper Warbler"
         },
         {
-          "scientificName": "Buteo buteo",
+          "scientName": "Buteo buteo",
           "commonName": "Common Buzzard"
         },
         {
-          "scientificName": "Lophophanes cristatus",
+          "scientName": "Lophophanes cristatus",
           "commonName": "European Crested Tit"
         },
         {
-          "scientificName": "Botaurus stellaris",
+          "scientName": "Botaurus stellaris",
           "commonName": "Eurasian Bittern"
-        },
-        {
-          "scientificName": "Streptopelia decaocto",
-          "commonName": "Eurasian Collared Dove"
-        },
-        {
-          "scientificName": "Anas crecca",
-          "commonName": "Eurasian Teal"
-        },
-        {
-          "scientificName": "Cisticola juncidis",
-          "commonName": "Zitting Cisticola"
-        },
-        {
-          "scientificName": "Charadrius hiaticula",
-          "commonName": "Common Ringed Plover"
-        },
-        {
-          "scientificName": "Fringilla montifringilla",
-          "commonName": "Brambling"
-        },
-        {
-          "scientificName": "Dryobates minor",
-          "commonName": "Lesser Spotted Woodpecker"
-        },
-        {
-          "scientificName": "Turdus torquatus",
-          "commonName": "Ring Ouzel"
-        },
-        {
-          "scientificName": "Emberiza cirlus",
-          "commonName": "Cirl Bunting"
-        },
-        {
-          "scientificName": "Scolopax rusticola",
-          "commonName": "Eurasian Woodcock"
-        },
-        {
-          "scientificName": "Ficedula parva",
-          "commonName": "Red-breasted Flycatcher"
-        },
-        {
-          "scientificName": "Tringa glareola",
-          "commonName": "Wood Sandpiper"
-        },
-        {
-          "scientificName": "Phylloscopus inornatus",
-          "commonName": "Yellow-browed Warbler"
-        },
-        {
-          "scientificName": "Alcedo atthis",
-          "commonName": "Common Kingfisher"
-        },
-        {
-          "scientificName": "Motacilla cinerea",
-          "commonName": "Grey Wagtail"
-        },
-        {
-          "scientificName": "Cygnus cygnus",
-          "commonName": "Whooper Swan"
-        },
-        {
-          "scientificName": "Luscinia luscinia",
-          "commonName": "Thrush Nightingale"
-        },
-        {
-          "scientificName": "Columba palumbus",
-          "commonName": "Common Wood Pigeon"
-        },
-        {
-          "scientificName": "Carpodacus erythrinus",
-          "commonName": "Common Rosefinch"
-        },
-        {
-          "scientificName": "Hippolais polyglotta",
-          "commonName": "Melodious Warbler"
-        },
-        {
-          "scientificName": "Bubo bubo",
-          "commonName": "Eurasian Eagle-Owl"
-        },
-        {
-          "scientificName": "Anthus hodgsoni",
-          "commonName": "Olive-backed Pipit"
-        },
-        {
-          "scientificName": "Burhinus oedicnemus",
-          "commonName": "Eurasian Stone-curlew"
-        },
-        {
-          "scientificName": "Himantopus himantopus",
-          "commonName": "Black-winged Stilt"
-        },
-        {
-          "scientificName": "Sterna hirundo",
-          "commonName": "Common Tern"
-        },
-        {
-          "scientificName": "Corvus frugilegus",
-          "commonName": "Rook"
-        },
-        {
-          "scientificName": "Apus apus",
-          "commonName": "Common Swift"
-        },
-        {
-          "scientificName": "Mareca penelope",
-          "commonName": "Eurasian Wigeon"
-        },
-        {
-          "scientificName": "Saxicola rubicola",
-          "commonName": "European Stonechat"
-        },
-        {
-          "scientificName": "Phylloscopus ibericus",
-          "commonName": "Iberian Chiffchaff"
-        },
-        {
-          "scientificName": "Phylloscopus humei",
-          "commonName": "Hume's Leaf Warbler"
-        },
-        {
-          "scientificName": "Porzana porzana",
-          "commonName": "Spotted Crake"
-        },
-        {
-          "scientificName": "Crex crex",
-          "commonName": "Corn Crake"
-        },
-        {
-          "scientificName": "Ixobrychus minutus",
-          "commonName": "Little Bittern"
-        },
-        {
-          "scientificName": "Anthus spinoletta",
-          "commonName": "Water Pipit"
-        },
-        {
-          "scientificName": "Accipiter gentilis",
-          "commonName": "Northern Goshawk"
-        },
-        {
-          "scientificName": "Delichon urbicum",
-          "commonName": "Common House Martin"
-        },
-        {
-          "scientificName": "Phylloscopus fuscatus",
-          "commonName": "Dusky Warbler"
-        },
-        {
-          "scientificName": "Lanius collurio",
-          "commonName": "Red-backed Shrike"
-        },
-        {
-          "scientificName": "Phylloscopus trochiloides",
-          "commonName": "Greenish Warbler"
-        },
-        {
-          "scientificName": "Phasianus colchicus",
-          "commonName": "Common Pheasant"
-        },
-        {
-          "scientificName": "Phylloscopus bonelli",
-          "commonName": "Western Bonelli's Warbler"
-        },
-        {
-          "scientificName": "Locustella luscinioides",
-          "commonName": "Savi's Warbler"
-        },
-        {
-          "scientificName": "Merops apiaster",
-          "commonName": "European Bee-eater"
-        },
-        {
-          "scientificName": "Otus scops",
-          "commonName": "Eurasian Scops Owl"
-        },
-        {
-          "scientificName": "Jynx torquilla",
-          "commonName": "Eurasian Wryneck"
-        },
-        {
-          "scientificName": "Pluvialis squatarola",
-          "commonName": "Grey Plover"
-        },
-        {
-          "scientificName": "Upupa epops",
-          "commonName": "Eurasian Hoopoe"
-        },
-        {
-          "scientificName": "Acanthis flammea",
-          "commonName": "Common Redpoll"
-        },
-        {
-          "scientificName": "Melanitta nigra",
-          "commonName": "Common Scoter"
-        },
-        {
-          "scientificName": "Larus argentatus",
-          "commonName": "European Herring Gull"
-        },
-        {
-          "scientificName": "Saxicola rubetra",
-          "commonName": "Whinchat"
-        },
-        {
-          "scientificName": "Larus canus",
-          "commonName": "Common Gull"
-        },
-        {
-          "scientificName": "Branta leucopsis",
-          "commonName": "Barnacle Goose"
-        },
-        {
-          "scientificName": "Galerida cristata",
-          "commonName": "Crested Lark"
-        },
-        {
-          "scientificName": "Falco tinnunculus",
-          "commonName": "Common Kestrel"
-        },
-        {
-          "scientificName": "Cygnus olor",
-          "commonName": "Mute Swan"
-        },
-        {
-          "scientificName": "Anser albifrons",
-          "commonName": "Greater White-fronted Goose"
-        },
-        {
-          "scientificName": "Locustella fluviatilis",
-          "commonName": "River Warbler"
-        },
-        {
-          "scientificName": "Larus michahellis",
-          "commonName": "Yellow-legged Gull"
-        },
-        {
-          "scientificName": "Egretta garzetta",
-          "commonName": "Little Egret"
-        },
-        {
-          "scientificName": "Psittacula krameri",
-          "commonName": "Rose-ringed Parakeet"
-        },
-        {
-          "scientificName": "Anthus campestris",
-          "commonName": "Tawny Pipit"
-        },
-        {
-          "scientificName": "Thalasseus sandvicensis",
-          "commonName": "Sandwich Tern"
-        },
-        {
-          "scientificName": "Recurvirostra avosetta",
-          "commonName": "Pied Avocet"
-        },
-        {
-          "scientificName": "Limosa limosa",
-          "commonName": "Black-tailed Godwit"
-        },
-        {
-          "scientificName": "Anthus cervinus",
-          "commonName": "Red-throated Pipit"
-        },
-        {
-          "scientificName": "Mareca strepera",
-          "commonName": "Gadwall"
         }
       ]
     },
@@ -677,504 +409,404 @@
       "location": "america",
       "species": [
         {
-          "scientificName": "Parus major",
+          "scientName": "Parus major",
           "commonName": "Great Tit"
         },
         {
-          "scientificName": "Turdus merula",
+          "scientName": "Turdus merula",
           "commonName": "Common Blackbird"
         },
         {
-          "scientificName": "Fringilla coelebs",
+          "scientName": "Fringilla coelebs",
           "commonName": "Common Chaffinch"
         },
         {
-          "scientificName": "Turdus philomelos",
+          "scientName": "Turdus philomelos",
           "commonName": "Song Thrush"
         },
         {
-          "scientificName": "Loxia curvirostra",
+          "scientName": "Loxia curvirostra",
           "commonName": "Red Crossbill"
         },
         {
-          "scientificName": "Phylloscopus trochilus",
+          "scientName": "Phylloscopus trochilus",
           "commonName": "Willow Warbler"
         },
         {
-          "scientificName": "Alauda arvensis",
+          "scientName": "Alauda arvensis",
           "commonName": "Eurasian Skylark"
         },
         {
-          "scientificName": "Dendrocopos major",
+          "scientName": "Dendrocopos major",
           "commonName": "Great Spotted Woodpecker"
         },
         {
-          "scientificName": "Passer domesticus",
+          "scientName": "Passer domesticus",
           "commonName": "House Sparrow"
         },
         {
-          "scientificName": "Passer montanus",
+          "scientName": "Passer montanus",
           "commonName": "Eurasian Tree Sparrow"
         },
         {
-          "scientificName": "Curruca curruca",
+          "scientName": "Curruca curruca",
           "commonName": "Lesser Whitethroat"
         },
         {
-          "scientificName": "Turdus iliacus",
+          "scientName": "Turdus iliacus",
           "commonName": "Redwing"
         },
         {
-          "scientificName": "Corvus corax",
+          "scientName": "Corvus corax",
           "commonName": "Northern Raven"
         },
         {
-          "scientificName": "Gallinula chloropus",
+          "scientName": "Gallinula chloropus",
           "commonName": "Common Moorhen"
         },
         {
-          "scientificName": "Chloris chloris",
+          "scientName": "Chloris chloris",
           "commonName": "European Greenfinch"
         },
         {
-          "scientificName": "Carduelis carduelis",
+          "scientName": "Carduelis carduelis",
           "commonName": "European Goldfinch"
         },
         {
-          "scientificName": "Anthus trivialis",
+          "scientName": "Anthus trivialis",
           "commonName": "Tree Pipit"
         },
         {
-          "scientificName": "Fulica atra",
+          "scientName": "Fulica atra",
           "commonName": "Eurasian Coot"
         },
         {
-          "scientificName": "Cuculus canorus",
+          "scientName": "Cuculus canorus",
           "commonName": "Common Cuckoo"
         },
         {
-          "scientificName": "Troglodytes aedon",
+          "scientName": "Troglodytes aedon",
           "commonName": "House Wren"
         },
         {
-          "scientificName": "Sturnus vulgaris",
+          "scientName": "Sturnus vulgaris",
           "commonName": "Common Starling"
         },
         {
-          "scientificName": "Emberiza schoeniclus",
+          "scientName": "Emberiza schoeniclus",
           "commonName": "Common Reed Bunting"
         },
         {
-          "scientificName": "Hirundo rustica",
+          "scientName": "Hirundo rustica",
           "commonName": "Barn Swallow"
         },
         {
-          "scientificName": "Actitis hypoleucos",
+          "scientName": "Actitis hypoleucos",
           "commonName": "Common Sandpiper"
         },
         {
-          "scientificName": "Gallinago gallinago",
+          "scientName": "Gallinago gallinago",
           "commonName": "Common Snipe"
         },
         {
-          "scientificName": "Numenius arquata",
+          "scientName": "Numenius arquata",
           "commonName": "Eurasian Curlew"
         },
         {
-          "scientificName": "Motacilla alba",
+          "scientName": "Motacilla alba",
           "commonName": "White Wagtail"
         },
         {
-          "scientificName": "Ardea cinerea",
+          "scientName": "Ardea cinerea",
           "commonName": "Grey Heron"
         },
         {
-          "scientificName": "Pyrrhula pyrrhula",
+          "scientName": "Pyrrhula pyrrhula",
           "commonName": "Eurasian Bullfinch"
         },
         {
-          "scientificName": "Turdus pilaris",
+          "scientName": "Turdus pilaris",
           "commonName": "Fieldfare"
         },
         {
-          "scientificName": "Muscicapa striata",
+          "scientName": "Muscicapa striata",
           "commonName": "Spotted Flycatcher"
         },
         {
-          "scientificName": "Tringa totanus",
+          "scientName": "Tringa totanus",
           "commonName": "Common Redshank"
         },
         {
-          "scientificName": "Acrocephalus schoenobaenus",
+          "scientName": "Acrocephalus schoenobaenus",
           "commonName": "Sedge Warbler"
         },
         {
-          "scientificName": "Spinus spinus",
+          "scientName": "Spinus spinus",
           "commonName": "Eurasian Siskin"
         },
         {
-          "scientificName": "Coccothraustes coccothraustes",
+          "scientName": "Coccothraustes coccothraustes",
           "commonName": "Hawfinch"
         },
         {
-          "scientificName": "Asio otus",
+          "scientName": "Asio otus",
           "commonName": "Long-eared Owl"
         },
         {
-          "scientificName": "Melospiza melodia",
+          "scientName": "Melospiza melodia",
           "commonName": "Song Sparrow"
         },
         {
-          "scientificName": "Tringa ochropus",
+          "scientName": "Tringa ochropus",
           "commonName": "Green Sandpiper"
         },
         {
-          "scientificName": "Chroicocephalus ridibundus",
+          "scientName": "Chroicocephalus ridibundus",
           "commonName": "Black-headed Gull"
         },
         {
-          "scientificName": "Anthus pratensis",
+          "scientName": "Anthus pratensis",
           "commonName": "Meadow Pipit"
         },
         {
-          "scientificName": "Phylloscopus sibilatrix",
+          "scientName": "Phylloscopus sibilatrix",
           "commonName": "Wood Warbler"
         },
         {
-          "scientificName": "Haematopus ostralegus",
+          "scientName": "Haematopus ostralegus",
           "commonName": "Eurasian Oystercatcher"
         },
         {
-          "scientificName": "Pluvialis apricaria",
+          "scientName": "Pluvialis apricaria",
           "commonName": "European Golden Plover"
         },
         {
-          "scientificName": "Anas platyrhynchos",
+          "scientName": "Anas platyrhynchos",
           "commonName": "Mallard"
         },
         {
-          "scientificName": "Luscinia svecica",
+          "scientName": "Luscinia svecica",
           "commonName": "Bluethroat"
         },
         {
-          "scientificName": "Tyto alba",
+          "scientName": "Tyto alba",
           "commonName": "Western Barn Owl"
         },
         {
-          "scientificName": "Vanellus vanellus",
+          "scientName": "Vanellus vanellus",
           "commonName": "Northern Lapwing"
         },
         {
-          "scientificName": "Coloeus monedula",
+          "scientName": "Coloeus monedula",
           "commonName": "Western Jackdaw"
         },
         {
-          "scientificName": "Tringa nebularia",
+          "scientName": "Tringa nebularia",
           "commonName": "Common Greenshank"
         },
         {
-          "scientificName": "Numenius phaeopus",
+          "scientName": "Numenius phaeopus",
           "commonName": "Eurasian Whimbrel"
         },
         {
-          "scientificName": "Nycticorax nycticorax",
+          "scientName": "Nycticorax nycticorax",
           "commonName": "Black-crowned Night Heron"
         },
         {
-          "scientificName": "Grus grus",
+          "scientName": "Grus grus",
           "commonName": "Common Crane"
         },
         {
-          "scientificName": "Henicorhina leucophrys",
+          "scientName": "Henicorhina leucophrys",
           "commonName": "Grey-breasted Wood Wren"
         },
         {
-          "scientificName": "Calidris alpina",
+          "scientName": "Calidris alpina",
           "commonName": "Dunlin"
         },
         {
-          "scientificName": "Charadrius dubius",
+          "scientName": "Charadrius dubius",
           "commonName": "Little Ringed Plover"
         },
         {
-          "scientificName": "Anser anser",
+          "scientName": "Anser anser",
           "commonName": "Greylag Goose"
         },
         {
-          "scientificName": "Streptopelia decaocto",
+          "scientName": "Streptopelia decaocto",
           "commonName": "Eurasian Collared Dove"
         },
         {
-          "scientificName": "Charadrius hiaticula",
+          "scientName": "Charadrius hiaticula",
           "commonName": "Common Ringed Plover"
         },
         {
-          "scientificName": "Fringilla montifringilla",
+          "scientName": "Fringilla montifringilla",
           "commonName": "Brambling"
         },
         {
-          "scientificName": "Scolopax rusticola",
+          "scientName": "Scolopax rusticola",
           "commonName": "Eurasian Woodcock"
         },
         {
-          "scientificName": "Tringa glareola",
+          "scientName": "Tringa glareola",
           "commonName": "Wood Sandpiper"
         },
         {
-          "scientificName": "Phylloscopus inornatus",
+          "scientName": "Phylloscopus inornatus",
           "commonName": "Yellow-browed Warbler"
         },
         {
-          "scientificName": "Zonotrichia capensis",
+          "scientName": "Zonotrichia capensis",
           "commonName": "Rufous-collared Sparrow"
         },
         {
-          "scientificName": "Pipilo maculatus",
+          "scientName": "Pipilo maculatus",
           "commonName": "Spotted Towhee"
         },
         {
-          "scientificName": "Motacilla cinerea",
+          "scientName": "Motacilla cinerea",
           "commonName": "Grey Wagtail"
         },
         {
-          "scientificName": "Cygnus cygnus",
+          "scientName": "Cygnus cygnus",
           "commonName": "Whooper Swan"
         },
         {
-          "scientificName": "Agelaius phoeniceus",
+          "scientName": "Agelaius phoeniceus",
           "commonName": "Red-winged Blackbird"
         },
         {
-          "scientificName": "Thryomanes bewickii",
+          "scientName": "Thryomanes bewickii",
           "commonName": "Bewick's Wren"
         },
         {
-          "scientificName": "Carpodacus erythrinus",
+          "scientName": "Carpodacus erythrinus",
           "commonName": "Common Rosefinch"
         },
         {
-          "scientificName": "Cardinalis cardinalis",
+          "scientName": "Cardinalis cardinalis",
           "commonName": "Northern Cardinal"
         },
         {
-          "scientificName": "Cyclarhis gujanensis",
+          "scientName": "Cyclarhis gujanensis",
           "commonName": "Rufous-browed Peppershrike"
         },
         {
-          "scientificName": "Anthus hodgsoni",
+          "scientName": "Anthus hodgsoni",
           "commonName": "Olive-backed Pipit"
         },
         {
-          "scientificName": "Himantopus himantopus",
+          "scientName": "Himantopus himantopus",
           "commonName": "Black-winged Stilt"
         },
         {
-          "scientificName": "Turdus migratorius",
+          "scientName": "Turdus migratorius",
           "commonName": "American Robin"
         },
         {
-          "scientificName": "Sterna hirundo",
+          "scientName": "Sterna hirundo",
           "commonName": "Common Tern"
         },
         {
-          "scientificName": "Apus apus",
+          "scientName": "Apus apus",
           "commonName": "Common Swift"
         },
         {
-          "scientificName": "Mareca penelope",
+          "scientName": "Mareca penelope",
           "commonName": "Eurasian Wigeon"
         },
         {
-          "scientificName": "Catharus ustulatus",
+          "scientName": "Catharus ustulatus",
           "commonName": "Swainson's Thrush"
         },
         {
-          "scientificName": "Aegolius funereus",
+          "scientName": "Aegolius funereus",
           "commonName": "Boreal Owl"
         },
         {
-          "scientificName": "Toxostoma curvirostre",
+          "scientName": "Toxostoma curvirostre",
           "commonName": "Curve-billed Thrasher"
         },
         {
-          "scientificName": "Crex crex",
+          "scientName": "Crex crex",
           "commonName": "Corn Crake"
         },
         {
-          "scientificName": "Ixobrychus minutus",
+          "scientName": "Ixobrychus minutus",
           "commonName": "Little Bittern"
         },
         {
-          "scientificName": "Anthus spinoletta",
+          "scientName": "Anthus spinoletta",
           "commonName": "Water Pipit"
         },
         {
-          "scientificName": "Accipiter gentilis",
+          "scientName": "Accipiter gentilis",
           "commonName": "Northern Goshawk"
         },
         {
-          "scientificName": "Delichon urbicum",
+          "scientName": "Delichon urbicum",
           "commonName": "Common House Martin"
         },
         {
-          "scientificName": "Phylloscopus fuscatus",
+          "scientName": "Phylloscopus fuscatus",
           "commonName": "Dusky Warbler"
         },
         {
-          "scientificName": "Thryothorus ludovicianus",
+          "scientName": "Thryothorus ludovicianus",
           "commonName": "Carolina Wren"
         },
         {
-          "scientificName": "Pitangus sulphuratus",
+          "scientName": "Pitangus sulphuratus",
           "commonName": "Great Kiskadee"
         },
         {
-          "scientificName": "Geothlypis trichas",
+          "scientName": "Geothlypis trichas",
           "commonName": "Common Yellowthroat"
         },
         {
-          "scientificName": "Phasianus colchicus",
+          "scientName": "Phasianus colchicus",
           "commonName": "Common Pheasant"
         },
         {
-          "scientificName": "Junco hyemalis",
+          "scientName": "Junco hyemalis",
           "commonName": "Dark-eyed Junco"
         },
         {
-          "scientificName": "Jynx torquilla",
+          "scientName": "Jynx torquilla",
           "commonName": "Eurasian Wryneck"
         },
         {
-          "scientificName": "Vireo gilvus",
+          "scientName": "Vireo gilvus",
           "commonName": "Warbling Vireo"
         },
         {
-          "scientificName": "Pluvialis squatarola",
+          "scientName": "Pluvialis squatarola",
           "commonName": "Grey Plover"
         },
         {
-          "scientificName": "Myiarchus tyrannulus",
+          "scientName": "Myiarchus tyrannulus",
           "commonName": "Brown-crested Flycatcher"
         },
         {
-          "scientificName": "Upupa epops",
+          "scientName": "Upupa epops",
           "commonName": "Eurasian Hoopoe"
         },
         {
-          "scientificName": "Henicorhina leucosticta",
+          "scientName": "Henicorhina leucosticta",
           "commonName": "White-breasted Wood Wren"
         },
         {
-          "scientificName": "Acanthis flammea",
+          "scientName": "Acanthis flammea",
           "commonName": "Common Redpoll"
         },
         {
-          "scientificName": "Melanitta nigra",
+          "scientName": "Melanitta nigra",
           "commonName": "Common Scoter"
         },
         {
-          "scientificName": "Rupornis magnirostris",
+          "scientName": "Rupornis magnirostris",
           "commonName": "Roadside Hawk"
-        },
-        {
-          "scientificName": "Branta canadensis",
-          "commonName": "Canada Goose"
-        },
-        {
-          "scientificName": "Coereba flaveola",
-          "commonName": "Bananaquit"
-        },
-        {
-          "scientificName": "Larus canus",
-          "commonName": "Common Gull"
-        },
-        {
-          "scientificName": "Branta leucopsis",
-          "commonName": "Barnacle Goose"
-        },
-        {
-          "scientificName": "Falco tinnunculus",
-          "commonName": "Common Kestrel"
-        },
-        {
-          "scientificName": "Cygnus olor",
-          "commonName": "Mute Swan"
-        },
-        {
-          "scientificName": "Tolmomyias sulphurescens",
-          "commonName": "Yellow-olive Flatbill"
-        },
-        {
-          "scientificName": "Anser albifrons",
-          "commonName": "Greater White-fronted Goose"
-        },
-        {
-          "scientificName": "Ramphocaenus melanurus",
-          "commonName": "Trilling Gnatwren"
-        },
-        {
-          "scientificName": "Calcarius lapponicus",
-          "commonName": "Lapland Longspur"
-        },
-        {
-          "scientificName": "Cistothorus palustris",
-          "commonName": "Marsh Wren"
-        },
-        {
-          "scientificName": "Mimus polyglottos",
-          "commonName": "Northern Mockingbird"
-        },
-        {
-          "scientificName": "Zonotrichia leucophrys",
-          "commonName": "White-crowned Sparrow"
-        },
-        {
-          "scientificName": "Larus michahellis",
-          "commonName": "Yellow-legged Gull"
-        },
-        {
-          "scientificName": "Glaucidium brasilianum",
-          "commonName": "Ferruginous Pygmy Owl"
-        },
-        {
-          "scientificName": "Nyctidromus albicollis",
-          "commonName": "Pauraque"
-        },
-        {
-          "scientificName": "Egretta garzetta",
-          "commonName": "Little Egret"
-        },
-        {
-          "scientificName": "Psittacula krameri",
-          "commonName": "Rose-ringed Parakeet"
-        },
-        {
-          "scientificName": "Zonotrichia albicollis",
-          "commonName": "White-throated Sparrow"
-        },
-        {
-          "scientificName": "Tyrannus melancholicus",
-          "commonName": "Tropical Kingbird"
-        },
-        {
-          "scientificName": "Thalasseus sandvicensis",
-          "commonName": "Sandwich Tern"
-        },
-        {
-          "scientificName": "Limosa limosa",
-          "commonName": "Black-tailed Godwit"
-        },
-        {
-          "scientificName": "Anthus cervinus",
-          "commonName": "Red-throated Pipit"
-        },
-        {
-          "scientificName": "Bubo virginianus",
-          "commonName": "Great Horned Owl"
-        },
-        {
-          "scientificName": "Mareca strepera",
-          "commonName": "Gadwall"
         }
       ]
     },
@@ -1182,720 +814,404 @@
       "location": "asia",
       "species": [
         {
-          "scientificName": "Parus major",
+          "scientName": "Parus major",
           "commonName": "Great Tit"
         },
         {
-          "scientificName": "Turdus merula",
+          "scientName": "Turdus merula",
           "commonName": "Common Blackbird"
         },
         {
-          "scientificName": "Fringilla coelebs",
+          "scientName": "Fringilla coelebs",
           "commonName": "Common Chaffinch"
         },
         {
-          "scientificName": "Phylloscopus collybita",
+          "scientName": "Phylloscopus collybita",
           "commonName": "Common Chiffchaff"
         },
         {
-          "scientificName": "Erithacus rubecula",
+          "scientName": "Erithacus rubecula",
           "commonName": "European Robin"
         },
         {
-          "scientificName": "Turdus philomelos",
+          "scientName": "Turdus philomelos",
           "commonName": "Song Thrush"
         },
         {
-          "scientificName": "Sylvia atricapilla",
+          "scientName": "Sylvia atricapilla",
           "commonName": "Eurasian Blackcap"
         },
         {
-          "scientificName": "Loxia curvirostra",
+          "scientName": "Loxia curvirostra",
           "commonName": "Red Crossbill"
         },
         {
-          "scientificName": "Phylloscopus trochilus",
+          "scientName": "Phylloscopus trochilus",
           "commonName": "Willow Warbler"
         },
         {
-          "scientificName": "Cyanistes caeruleus",
+          "scientName": "Cyanistes caeruleus",
           "commonName": "Eurasian Blue Tit"
         },
         {
-          "scientificName": "Troglodytes troglodytes",
+          "scientName": "Troglodytes troglodytes",
           "commonName": "Eurasian Wren"
         },
         {
-          "scientificName": "Curruca communis",
+          "scientName": "Curruca communis",
           "commonName": "Common Whitethroat"
         },
         {
-          "scientificName": "Emberiza citrinella",
+          "scientName": "Emberiza citrinella",
           "commonName": "Yellowhammer"
         },
         {
-          "scientificName": "Strix aluco",
+          "scientName": "Strix aluco",
           "commonName": "Tawny Owl"
         },
         {
-          "scientificName": "Emberiza calandra",
+          "scientName": "Emberiza calandra",
           "commonName": "Corn Bunting"
         },
         {
-          "scientificName": "Alauda arvensis",
+          "scientName": "Alauda arvensis",
           "commonName": "Eurasian Skylark"
         },
         {
-          "scientificName": "Periparus ater",
+          "scientName": "Periparus ater",
           "commonName": "Coal Tit"
         },
         {
-          "scientificName": "Dendrocopos major",
+          "scientName": "Dendrocopos major",
           "commonName": "Great Spotted Woodpecker"
         },
         {
-          "scientificName": "Passer domesticus",
+          "scientName": "Passer domesticus",
           "commonName": "House Sparrow"
         },
         {
-          "scientificName": "Prunella modularis",
+          "scientName": "Prunella modularis",
           "commonName": "Dunnock"
         },
         {
-          "scientificName": "Passer montanus",
+          "scientName": "Passer montanus",
           "commonName": "Eurasian Tree Sparrow"
         },
         {
-          "scientificName": "Curruca curruca",
+          "scientName": "Curruca curruca",
           "commonName": "Lesser Whitethroat"
         },
         {
-          "scientificName": "Motacilla flava",
+          "scientName": "Motacilla flava",
           "commonName": "Western Yellow Wagtail"
         },
         {
-          "scientificName": "Luscinia megarhynchos",
+          "scientName": "Luscinia megarhynchos",
           "commonName": "Common Nightingale"
         },
         {
-          "scientificName": "Rallus aquaticus",
+          "scientName": "Rallus aquaticus",
           "commonName": "Water Rail"
         },
         {
-          "scientificName": "Turdus iliacus",
+          "scientName": "Turdus iliacus",
           "commonName": "Redwing"
         },
         {
-          "scientificName": "Corvus corax",
+          "scientName": "Corvus corax",
           "commonName": "Northern Raven"
         },
         {
-          "scientificName": "Gallinula chloropus",
+          "scientName": "Gallinula chloropus",
           "commonName": "Common Moorhen"
         },
         {
-          "scientificName": "Chloris chloris",
+          "scientName": "Chloris chloris",
           "commonName": "European Greenfinch"
         },
         {
-          "scientificName": "Carduelis carduelis",
+          "scientName": "Carduelis carduelis",
           "commonName": "European Goldfinch"
         },
         {
-          "scientificName": "Anthus trivialis",
+          "scientName": "Anthus trivialis",
           "commonName": "Tree Pipit"
         },
         {
-          "scientificName": "Fulica atra",
+          "scientName": "Fulica atra",
           "commonName": "Eurasian Coot"
         },
         {
-          "scientificName": "Sitta europaea",
+          "scientName": "Sitta europaea",
           "commonName": "Eurasian Nuthatch"
         },
         {
-          "scientificName": "Cuculus canorus",
+          "scientName": "Cuculus canorus",
           "commonName": "Common Cuckoo"
         },
         {
-          "scientificName": "Garrulus glandarius",
+          "scientName": "Garrulus glandarius",
           "commonName": "Eurasian Jay"
         },
         {
-          "scientificName": "Acrocephalus palustris",
+          "scientName": "Acrocephalus palustris",
           "commonName": "Marsh Warbler"
         },
         {
-          "scientificName": "Regulus regulus",
+          "scientName": "Regulus regulus",
           "commonName": "Goldcrest"
         },
         {
-          "scientificName": "Sturnus vulgaris",
+          "scientName": "Sturnus vulgaris",
           "commonName": "Common Starling"
         },
         {
-          "scientificName": "Aegithalos caudatus",
+          "scientName": "Aegithalos caudatus",
           "commonName": "Long-tailed Tit"
         },
         {
-          "scientificName": "Emberiza schoeniclus",
+          "scientName": "Emberiza schoeniclus",
           "commonName": "Common Reed Bunting"
         },
         {
-          "scientificName": "Cettia cetti",
+          "scientName": "Cettia cetti",
           "commonName": "Cetti's Warbler"
         },
         {
-          "scientificName": "Acrocephalus scirpaceus",
+          "scientName": "Acrocephalus scirpaceus",
           "commonName": "Eurasian Reed Warbler"
         },
         {
-          "scientificName": "Hirundo rustica",
+          "scientName": "Hirundo rustica",
           "commonName": "Barn Swallow"
         },
         {
-          "scientificName": "Corvus corone",
+          "scientName": "Corvus corone",
           "commonName": "Carrion Crow"
         },
         {
-          "scientificName": "Actitis hypoleucos",
+          "scientName": "Actitis hypoleucos",
           "commonName": "Common Sandpiper"
         },
         {
-          "scientificName": "Gallinago gallinago",
+          "scientName": "Gallinago gallinago",
           "commonName": "Common Snipe"
         },
         {
-          "scientificName": "Dryocopus martius",
+          "scientName": "Dryocopus martius",
           "commonName": "Black Woodpecker"
         },
         {
-          "scientificName": "Linaria cannabina",
+          "scientName": "Linaria cannabina",
           "commonName": "Common Linnet"
         },
         {
-          "scientificName": "Sylvia borin",
+          "scientName": "Sylvia borin",
           "commonName": "Garden Warbler"
         },
         {
-          "scientificName": "Numenius arquata",
+          "scientName": "Numenius arquata",
           "commonName": "Eurasian Curlew"
         },
         {
-          "scientificName": "Emberiza hortulana",
+          "scientName": "Emberiza hortulana",
           "commonName": "Ortolan Bunting"
         },
         {
-          "scientificName": "Motacilla alba",
+          "scientName": "Motacilla alba",
           "commonName": "White Wagtail"
         },
         {
-          "scientificName": "Ardea cinerea",
+          "scientName": "Ardea cinerea",
           "commonName": "Grey Heron"
         },
         {
-          "scientificName": "Pyrrhula pyrrhula",
+          "scientName": "Pyrrhula pyrrhula",
           "commonName": "Eurasian Bullfinch"
         },
         {
-          "scientificName": "Poecile palustris",
+          "scientName": "Poecile palustris",
           "commonName": "Marsh Tit"
         },
         {
-          "scientificName": "Phoenicurus phoenicurus",
+          "scientName": "Phoenicurus phoenicurus",
           "commonName": "Common Redstart"
         },
         {
-          "scientificName": "Turdus pilaris",
+          "scientName": "Turdus pilaris",
           "commonName": "Fieldfare"
         },
         {
-          "scientificName": "Tachybaptus ruficollis",
+          "scientName": "Tachybaptus ruficollis",
           "commonName": "Little Grebe"
         },
         {
-          "scientificName": "Muscicapa striata",
+          "scientName": "Muscicapa striata",
           "commonName": "Spotted Flycatcher"
         },
         {
-          "scientificName": "Phoenicurus ochruros",
+          "scientName": "Phoenicurus ochruros",
           "commonName": "Black Redstart"
         },
         {
-          "scientificName": "Tringa totanus",
+          "scientName": "Tringa totanus",
           "commonName": "Common Redshank"
         },
         {
-          "scientificName": "Acrocephalus schoenobaenus",
+          "scientName": "Acrocephalus schoenobaenus",
           "commonName": "Sedge Warbler"
         },
         {
-          "scientificName": "Corvus cornix",
+          "scientName": "Corvus cornix",
           "commonName": "Hooded Crow"
         },
         {
-          "scientificName": "Curruca melanocephala",
+          "scientName": "Curruca melanocephala",
           "commonName": "Sardinian Warbler"
         },
         {
-          "scientificName": "Acrocephalus dumetorum",
+          "scientName": "Acrocephalus dumetorum",
           "commonName": "Blyth's Reed Warbler"
         },
         {
-          "scientificName": "Spinus spinus",
+          "scientName": "Spinus spinus",
           "commonName": "Eurasian Siskin"
         },
         {
-          "scientificName": "Ficedula hypoleuca",
+          "scientName": "Ficedula hypoleuca",
           "commonName": "European Pied Flycatcher"
         },
         {
-          "scientificName": "Coccothraustes coccothraustes",
+          "scientName": "Coccothraustes coccothraustes",
           "commonName": "Hawfinch"
         },
         {
-          "scientificName": "Coturnix coturnix",
+          "scientName": "Coturnix coturnix",
           "commonName": "Common Quail"
         },
         {
-          "scientificName": "Athene noctua",
+          "scientName": "Athene noctua",
           "commonName": "Little Owl"
         },
         {
-          "scientificName": "Serinus serinus",
+          "scientName": "Serinus serinus",
           "commonName": "European Serin"
         },
         {
-          "scientificName": "Hippolais icterina",
+          "scientName": "Hippolais icterina",
           "commonName": "Icterine Warbler"
         },
         {
-          "scientificName": "Oriolus oriolus",
+          "scientName": "Oriolus oriolus",
           "commonName": "Eurasian Golden Oriole"
         },
         {
-          "scientificName": "Certhia brachydactyla",
+          "scientName": "Certhia brachydactyla",
           "commonName": "Short-toed Treecreeper"
         },
         {
-          "scientificName": "Caprimulgus europaeus",
+          "scientName": "Caprimulgus europaeus",
           "commonName": "European Nightjar"
         },
         {
-          "scientificName": "Asio otus",
+          "scientName": "Asio otus",
           "commonName": "Long-eared Owl"
         },
         {
-          "scientificName": "Regulus ignicapilla",
+          "scientName": "Regulus ignicapilla",
           "commonName": "Common Firecrest"
         },
         {
-          "scientificName": "Turdus viscivorus",
+          "scientName": "Turdus viscivorus",
           "commonName": "Mistle Thrush"
         },
         {
-          "scientificName": "Melospiza melodia",
+          "scientName": "Melospiza melodia",
           "commonName": "Song Sparrow"
         },
         {
-          "scientificName": "Certhia familiaris",
+          "scientName": "Certhia familiaris",
           "commonName": "Eurasian Treecreeper"
         },
         {
-          "scientificName": "Poecile montanus",
+          "scientName": "Poecile montanus",
           "commonName": "Willow Tit"
         },
         {
-          "scientificName": "Tringa ochropus",
+          "scientName": "Tringa ochropus",
           "commonName": "Green Sandpiper"
         },
         {
-          "scientificName": "Chroicocephalus ridibundus",
+          "scientName": "Chroicocephalus ridibundus",
           "commonName": "Black-headed Gull"
         },
         {
-          "scientificName": "Anthus pratensis",
+          "scientName": "Anthus pratensis",
           "commonName": "Meadow Pipit"
         },
         {
-          "scientificName": "Pica pica",
+          "scientName": "Pica pica",
           "commonName": "Eurasian Magpie"
         },
         {
-          "scientificName": "Phylloscopus sibilatrix",
+          "scientName": "Phylloscopus sibilatrix",
           "commonName": "Wood Warbler"
         },
         {
-          "scientificName": "Haematopus ostralegus",
+          "scientName": "Haematopus ostralegus",
           "commonName": "Eurasian Oystercatcher"
         },
         {
-          "scientificName": "Pluvialis apricaria",
+          "scientName": "Pluvialis apricaria",
           "commonName": "European Golden Plover"
         },
         {
-          "scientificName": "Anas platyrhynchos",
+          "scientName": "Anas platyrhynchos",
           "commonName": "Mallard"
         },
         {
-          "scientificName": "Luscinia svecica",
+          "scientName": "Luscinia svecica",
           "commonName": "Bluethroat"
         },
         {
-          "scientificName": "Tyto alba",
+          "scientName": "Tyto alba",
           "commonName": "Western Barn Owl"
         },
         {
-          "scientificName": "Lullula arborea",
+          "scientName": "Lullula arborea",
           "commonName": "Woodlark"
         },
         {
-          "scientificName": "Vanellus vanellus",
+          "scientName": "Vanellus vanellus",
           "commonName": "Northern Lapwing"
         },
         {
-          "scientificName": "Coloeus monedula",
+          "scientName": "Coloeus monedula",
           "commonName": "Western Jackdaw"
         },
         {
-          "scientificName": "Tringa nebularia",
+          "scientName": "Tringa nebularia",
           "commonName": "Common Greenshank"
         },
         {
-          "scientificName": "Picus viridis",
+          "scientName": "Picus viridis",
           "commonName": "European Green Woodpecker"
         },
         {
-          "scientificName": "Numenius phaeopus",
+          "scientName": "Numenius phaeopus",
           "commonName": "Eurasian Whimbrel"
         },
         {
-          "scientificName": "Acrocephalus arundinaceus",
+          "scientName": "Acrocephalus arundinaceus",
           "commonName": "Great Reed Warbler"
         },
         {
-          "scientificName": "Nycticorax nycticorax",
+          "scientName": "Nycticorax nycticorax",
           "commonName": "Black-crowned Night Heron"
         },
         {
-          "scientificName": "Grus grus",
+          "scientName": "Grus grus",
           "commonName": "Common Crane"
-        },
-        {
-          "scientificName": "Calidris alpina",
-          "commonName": "Dunlin"
-        },
-        {
-          "scientificName": "Charadrius dubius",
-          "commonName": "Little Ringed Plover"
-        },
-        {
-          "scientificName": "Anser anser",
-          "commonName": "Greylag Goose"
-        },
-        {
-          "scientificName": "Locustella naevia",
-          "commonName": "Common Grasshopper Warbler"
-        },
-        {
-          "scientificName": "Buteo buteo",
-          "commonName": "Common Buzzard"
-        },
-        {
-          "scientificName": "Lophophanes cristatus",
-          "commonName": "European Crested Tit"
-        },
-        {
-          "scientificName": "Botaurus stellaris",
-          "commonName": "Eurasian Bittern"
-        },
-        {
-          "scientificName": "Streptopelia decaocto",
-          "commonName": "Eurasian Collared Dove"
-        },
-        {
-          "scientificName": "Anas crecca",
-          "commonName": "Eurasian Teal"
-        },
-        {
-          "scientificName": "Cisticola juncidis",
-          "commonName": "Zitting Cisticola"
-        },
-        {
-          "scientificName": "Charadrius hiaticula",
-          "commonName": "Common Ringed Plover"
-        },
-        {
-          "scientificName": "Fringilla montifringilla",
-          "commonName": "Brambling"
-        },
-        {
-          "scientificName": "Dryobates minor",
-          "commonName": "Lesser Spotted Woodpecker"
-        },
-        {
-          "scientificName": "Turdus torquatus",
-          "commonName": "Ring Ouzel"
-        },
-        {
-          "scientificName": "Emberiza cirlus",
-          "commonName": "Cirl Bunting"
-        },
-        {
-          "scientificName": "Scolopax rusticola",
-          "commonName": "Eurasian Woodcock"
-        },
-        {
-          "scientificName": "Ficedula parva",
-          "commonName": "Red-breasted Flycatcher"
-        },
-        {
-          "scientificName": "Tringa glareola",
-          "commonName": "Wood Sandpiper"
-        },
-        {
-          "scientificName": "Phylloscopus inornatus",
-          "commonName": "Yellow-browed Warbler"
-        },
-        {
-          "scientificName": "Alcedo atthis",
-          "commonName": "Common Kingfisher"
-        },
-        {
-          "scientificName": "Motacilla cinerea",
-          "commonName": "Grey Wagtail"
-        },
-        {
-          "scientificName": "Cygnus cygnus",
-          "commonName": "Whooper Swan"
-        },
-        {
-          "scientificName": "Luscinia luscinia",
-          "commonName": "Thrush Nightingale"
-        },
-        {
-          "scientificName": "Columba palumbus",
-          "commonName": "Common Wood Pigeon"
-        },
-        {
-          "scientificName": "Carpodacus erythrinus",
-          "commonName": "Common Rosefinch"
-        },
-        {
-          "scientificName": "Bubo bubo",
-          "commonName": "Eurasian Eagle-Owl"
-        },
-        {
-          "scientificName": "Anthus hodgsoni",
-          "commonName": "Olive-backed Pipit"
-        },
-        {
-          "scientificName": "Burhinus oedicnemus",
-          "commonName": "Eurasian Stone-curlew"
-        },
-        {
-          "scientificName": "Himantopus himantopus",
-          "commonName": "Black-winged Stilt"
-        },
-        {
-          "scientificName": "Loxia pytyopsittacus",
-          "commonName": "Parrot Crossbill"
-        },
-        {
-          "scientificName": "Sterna hirundo",
-          "commonName": "Common Tern"
-        },
-        {
-          "scientificName": "Corvus frugilegus",
-          "commonName": "Rook"
-        },
-        {
-          "scientificName": "Apus apus",
-          "commonName": "Common Swift"
-        },
-        {
-          "scientificName": "Mareca penelope",
-          "commonName": "Eurasian Wigeon"
-        },
-        {
-          "scientificName": "Saxicola rubicola",
-          "commonName": "European Stonechat"
-        },
-        {
-          "scientificName": "Catharus ustulatus",
-          "commonName": "Swainson's Thrush"
-        },
-        {
-          "scientificName": "Aegolius funereus",
-          "commonName": "Boreal Owl"
-        },
-        {
-          "scientificName": "Phylloscopus humei",
-          "commonName": "Hume's Leaf Warbler"
-        },
-        {
-          "scientificName": "Porzana porzana",
-          "commonName": "Spotted Crake"
-        },
-        {
-          "scientificName": "Picus canus",
-          "commonName": "Grey-headed Woodpecker"
-        },
-        {
-          "scientificName": "Crex crex",
-          "commonName": "Corn Crake"
-        },
-        {
-          "scientificName": "Glaucidium passerinum",
-          "commonName": "Eurasian Pygmy Owl"
-        },
-        {
-          "scientificName": "Ixobrychus minutus",
-          "commonName": "Little Bittern"
-        },
-        {
-          "scientificName": "Anthus spinoletta",
-          "commonName": "Water Pipit"
-        },
-        {
-          "scientificName": "Accipiter gentilis",
-          "commonName": "Northern Goshawk"
-        },
-        {
-          "scientificName": "Delichon urbicum",
-          "commonName": "Common House Martin"
-        },
-        {
-          "scientificName": "Phylloscopus fuscatus",
-          "commonName": "Dusky Warbler"
-        },
-        {
-          "scientificName": "Dendrocoptes medius",
-          "commonName": "Middle Spotted Woodpecker"
-        },
-        {
-          "scientificName": "Lanius collurio",
-          "commonName": "Red-backed Shrike"
-        },
-        {
-          "scientificName": "Phylloscopus trochiloides",
-          "commonName": "Greenish Warbler"
-        },
-        {
-          "scientificName": "Phasianus colchicus",
-          "commonName": "Common Pheasant"
-        },
-        {
-          "scientificName": "Locustella luscinioides",
-          "commonName": "Savi's Warbler"
-        },
-        {
-          "scientificName": "Merops apiaster",
-          "commonName": "European Bee-eater"
-        },
-        {
-          "scientificName": "Otus scops",
-          "commonName": "Eurasian Scops Owl"
-        },
-        {
-          "scientificName": "Jynx torquilla",
-          "commonName": "Eurasian Wryneck"
-        },
-        {
-          "scientificName": "Copsychus saularis",
-          "commonName": "Oriental Magpie-Robin"
-        },
-        {
-          "scientificName": "Pluvialis squatarola",
-          "commonName": "Grey Plover"
-        },
-        {
-          "scientificName": "Upupa epops",
-          "commonName": "Eurasian Hoopoe"
-        },
-        {
-          "scientificName": "Acanthis flammea",
-          "commonName": "Common Redpoll"
-        },
-        {
-          "scientificName": "Melanitta nigra",
-          "commonName": "Common Scoter"
-        },
-        {
-          "scientificName": "Larus argentatus",
-          "commonName": "European Herring Gull"
-        },
-        {
-          "scientificName": "Branta canadensis",
-          "commonName": "Canada Goose"
-        },
-        {
-          "scientificName": "Saxicola rubetra",
-          "commonName": "Whinchat"
-        },
-        {
-          "scientificName": "Larus canus",
-          "commonName": "Common Gull"
-        },
-        {
-          "scientificName": "Branta leucopsis",
-          "commonName": "Barnacle Goose"
-        },
-        {
-          "scientificName": "Galerida cristata",
-          "commonName": "Crested Lark"
-        },
-        {
-          "scientificName": "Falco tinnunculus",
-          "commonName": "Common Kestrel"
-        },
-        {
-          "scientificName": "Cygnus olor",
-          "commonName": "Mute Swan"
-        },
-        {
-          "scientificName": "Anser albifrons",
-          "commonName": "Greater White-fronted Goose"
-        },
-        {
-          "scientificName": "Locustella fluviatilis",
-          "commonName": "River Warbler"
-        },
-        {
-          "scientificName": "Egretta garzetta",
-          "commonName": "Little Egret"
-        },
-        {
-          "scientificName": "Psittacula krameri",
-          "commonName": "Rose-ringed Parakeet"
-        },
-        {
-          "scientificName": "Zonotrichia albicollis",
-          "commonName": "White-throated Sparrow"
-        },
-        {
-          "scientificName": "Anthus campestris",
-          "commonName": "Tawny Pipit"
-        },
-        {
-          "scientificName": "Thalasseus sandvicensis",
-          "commonName": "Sandwich Tern"
-        },
-        {
-          "scientificName": "Recurvirostra avosetta",
-          "commonName": "Pied Avocet"
-        },
-        {
-          "scientificName": "Limosa limosa",
-          "commonName": "Black-tailed Godwit"
-        },
-        {
-          "scientificName": "Anthus cervinus",
-          "commonName": "Red-throated Pipit"
-        },
-        {
-          "scientificName": "Mareca strepera",
-          "commonName": "Gadwall"
         }
       ]
     },
@@ -1903,756 +1219,404 @@
       "location": "europe",
       "species": [
         {
-          "scientificName": "Parus major",
+          "scientName": "Parus major",
           "commonName": "Great Tit"
         },
         {
-          "scientificName": "Turdus merula",
+          "scientName": "Turdus merula",
           "commonName": "Common Blackbird"
         },
         {
-          "scientificName": "Fringilla coelebs",
+          "scientName": "Fringilla coelebs",
           "commonName": "Common Chaffinch"
         },
         {
-          "scientificName": "Phylloscopus collybita",
+          "scientName": "Phylloscopus collybita",
           "commonName": "Common Chiffchaff"
         },
         {
-          "scientificName": "Erithacus rubecula",
+          "scientName": "Erithacus rubecula",
           "commonName": "European Robin"
         },
         {
-          "scientificName": "Turdus philomelos",
+          "scientName": "Turdus philomelos",
           "commonName": "Song Thrush"
         },
         {
-          "scientificName": "Sylvia atricapilla",
+          "scientName": "Sylvia atricapilla",
           "commonName": "Eurasian Blackcap"
         },
         {
-          "scientificName": "Loxia curvirostra",
+          "scientName": "Loxia curvirostra",
           "commonName": "Red Crossbill"
         },
         {
-          "scientificName": "Phylloscopus trochilus",
+          "scientName": "Phylloscopus trochilus",
           "commonName": "Willow Warbler"
         },
         {
-          "scientificName": "Cyanistes caeruleus",
+          "scientName": "Cyanistes caeruleus",
           "commonName": "Eurasian Blue Tit"
         },
         {
-          "scientificName": "Troglodytes troglodytes",
+          "scientName": "Troglodytes troglodytes",
           "commonName": "Eurasian Wren"
         },
         {
-          "scientificName": "Curruca communis",
+          "scientName": "Curruca communis",
           "commonName": "Common Whitethroat"
         },
         {
-          "scientificName": "Emberiza citrinella",
+          "scientName": "Emberiza citrinella",
           "commonName": "Yellowhammer"
         },
         {
-          "scientificName": "Strix aluco",
+          "scientName": "Strix aluco",
           "commonName": "Tawny Owl"
         },
         {
-          "scientificName": "Emberiza calandra",
+          "scientName": "Emberiza calandra",
           "commonName": "Corn Bunting"
         },
         {
-          "scientificName": "Alauda arvensis",
+          "scientName": "Alauda arvensis",
           "commonName": "Eurasian Skylark"
         },
         {
-          "scientificName": "Periparus ater",
+          "scientName": "Periparus ater",
           "commonName": "Coal Tit"
         },
         {
-          "scientificName": "Dendrocopos major",
+          "scientName": "Dendrocopos major",
           "commonName": "Great Spotted Woodpecker"
         },
         {
-          "scientificName": "Passer domesticus",
+          "scientName": "Passer domesticus",
           "commonName": "House Sparrow"
         },
         {
-          "scientificName": "Prunella modularis",
+          "scientName": "Prunella modularis",
           "commonName": "Dunnock"
         },
         {
-          "scientificName": "Passer montanus",
+          "scientName": "Passer montanus",
           "commonName": "Eurasian Tree Sparrow"
         },
         {
-          "scientificName": "Curruca curruca",
+          "scientName": "Curruca curruca",
           "commonName": "Lesser Whitethroat"
         },
         {
-          "scientificName": "Motacilla flava",
+          "scientName": "Motacilla flava",
           "commonName": "Western Yellow Wagtail"
         },
         {
-          "scientificName": "Luscinia megarhynchos",
+          "scientName": "Luscinia megarhynchos",
           "commonName": "Common Nightingale"
         },
         {
-          "scientificName": "Rallus aquaticus",
+          "scientName": "Rallus aquaticus",
           "commonName": "Water Rail"
         },
         {
-          "scientificName": "Turdus iliacus",
+          "scientName": "Turdus iliacus",
           "commonName": "Redwing"
         },
         {
-          "scientificName": "Corvus corax",
+          "scientName": "Corvus corax",
           "commonName": "Northern Raven"
         },
         {
-          "scientificName": "Gallinula chloropus",
+          "scientName": "Gallinula chloropus",
           "commonName": "Common Moorhen"
         },
         {
-          "scientificName": "Chloris chloris",
+          "scientName": "Chloris chloris",
           "commonName": "European Greenfinch"
         },
         {
-          "scientificName": "Carduelis carduelis",
+          "scientName": "Carduelis carduelis",
           "commonName": "European Goldfinch"
         },
         {
-          "scientificName": "Anthus trivialis",
+          "scientName": "Anthus trivialis",
           "commonName": "Tree Pipit"
         },
         {
-          "scientificName": "Fulica atra",
+          "scientName": "Fulica atra",
           "commonName": "Eurasian Coot"
         },
         {
-          "scientificName": "Sitta europaea",
+          "scientName": "Sitta europaea",
           "commonName": "Eurasian Nuthatch"
         },
         {
-          "scientificName": "Cuculus canorus",
+          "scientName": "Cuculus canorus",
           "commonName": "Common Cuckoo"
         },
         {
-          "scientificName": "Garrulus glandarius",
+          "scientName": "Garrulus glandarius",
           "commonName": "Eurasian Jay"
         },
         {
-          "scientificName": "Acrocephalus palustris",
+          "scientName": "Acrocephalus palustris",
           "commonName": "Marsh Warbler"
         },
         {
-          "scientificName": "Regulus regulus",
+          "scientName": "Regulus regulus",
           "commonName": "Goldcrest"
         },
         {
-          "scientificName": "Sturnus vulgaris",
+          "scientName": "Sturnus vulgaris",
           "commonName": "Common Starling"
         },
         {
-          "scientificName": "Aegithalos caudatus",
+          "scientName": "Aegithalos caudatus",
           "commonName": "Long-tailed Tit"
         },
         {
-          "scientificName": "Emberiza schoeniclus",
+          "scientName": "Emberiza schoeniclus",
           "commonName": "Common Reed Bunting"
         },
         {
-          "scientificName": "Cettia cetti",
+          "scientName": "Cettia cetti",
           "commonName": "Cetti's Warbler"
         },
         {
-          "scientificName": "Acrocephalus scirpaceus",
+          "scientName": "Acrocephalus scirpaceus",
           "commonName": "Eurasian Reed Warbler"
         },
         {
-          "scientificName": "Hirundo rustica",
+          "scientName": "Hirundo rustica",
           "commonName": "Barn Swallow"
         },
         {
-          "scientificName": "Corvus corone",
+          "scientName": "Corvus corone",
           "commonName": "Carrion Crow"
         },
         {
-          "scientificName": "Actitis hypoleucos",
+          "scientName": "Actitis hypoleucos",
           "commonName": "Common Sandpiper"
         },
         {
-          "scientificName": "Gallinago gallinago",
+          "scientName": "Gallinago gallinago",
           "commonName": "Common Snipe"
         },
         {
-          "scientificName": "Dryocopus martius",
+          "scientName": "Dryocopus martius",
           "commonName": "Black Woodpecker"
         },
         {
-          "scientificName": "Linaria cannabina",
+          "scientName": "Linaria cannabina",
           "commonName": "Common Linnet"
         },
         {
-          "scientificName": "Sylvia borin",
+          "scientName": "Sylvia borin",
           "commonName": "Garden Warbler"
         },
         {
-          "scientificName": "Numenius arquata",
+          "scientName": "Numenius arquata",
           "commonName": "Eurasian Curlew"
         },
         {
-          "scientificName": "Emberiza hortulana",
+          "scientName": "Emberiza hortulana",
           "commonName": "Ortolan Bunting"
         },
         {
-          "scientificName": "Motacilla alba",
+          "scientName": "Motacilla alba",
           "commonName": "White Wagtail"
         },
         {
-          "scientificName": "Ardea cinerea",
+          "scientName": "Ardea cinerea",
           "commonName": "Grey Heron"
         },
         {
-          "scientificName": "Pyrrhula pyrrhula",
+          "scientName": "Pyrrhula pyrrhula",
           "commonName": "Eurasian Bullfinch"
         },
         {
-          "scientificName": "Poecile palustris",
+          "scientName": "Poecile palustris",
           "commonName": "Marsh Tit"
         },
         {
-          "scientificName": "Phoenicurus phoenicurus",
+          "scientName": "Phoenicurus phoenicurus",
           "commonName": "Common Redstart"
         },
         {
-          "scientificName": "Turdus pilaris",
+          "scientName": "Turdus pilaris",
           "commonName": "Fieldfare"
         },
         {
-          "scientificName": "Tachybaptus ruficollis",
+          "scientName": "Tachybaptus ruficollis",
           "commonName": "Little Grebe"
         },
         {
-          "scientificName": "Muscicapa striata",
+          "scientName": "Muscicapa striata",
           "commonName": "Spotted Flycatcher"
         },
         {
-          "scientificName": "Phoenicurus ochruros",
+          "scientName": "Phoenicurus ochruros",
           "commonName": "Black Redstart"
         },
         {
-          "scientificName": "Tringa totanus",
+          "scientName": "Tringa totanus",
           "commonName": "Common Redshank"
         },
         {
-          "scientificName": "Acrocephalus schoenobaenus",
+          "scientName": "Acrocephalus schoenobaenus",
           "commonName": "Sedge Warbler"
         },
         {
-          "scientificName": "Corvus cornix",
+          "scientName": "Corvus cornix",
           "commonName": "Hooded Crow"
         },
         {
-          "scientificName": "Curruca melanocephala",
+          "scientName": "Curruca melanocephala",
           "commonName": "Sardinian Warbler"
         },
         {
-          "scientificName": "Acrocephalus dumetorum",
+          "scientName": "Acrocephalus dumetorum",
           "commonName": "Blyth's Reed Warbler"
         },
         {
-          "scientificName": "Spinus spinus",
+          "scientName": "Spinus spinus",
           "commonName": "Eurasian Siskin"
         },
         {
-          "scientificName": "Ficedula hypoleuca",
+          "scientName": "Ficedula hypoleuca",
           "commonName": "European Pied Flycatcher"
         },
         {
-          "scientificName": "Coccothraustes coccothraustes",
+          "scientName": "Coccothraustes coccothraustes",
           "commonName": "Hawfinch"
         },
         {
-          "scientificName": "Coturnix coturnix",
+          "scientName": "Coturnix coturnix",
           "commonName": "Common Quail"
         },
         {
-          "scientificName": "Athene noctua",
+          "scientName": "Athene noctua",
           "commonName": "Little Owl"
         },
         {
-          "scientificName": "Serinus serinus",
+          "scientName": "Serinus serinus",
           "commonName": "European Serin"
         },
         {
-          "scientificName": "Hippolais icterina",
+          "scientName": "Hippolais icterina",
           "commonName": "Icterine Warbler"
         },
         {
-          "scientificName": "Oriolus oriolus",
+          "scientName": "Oriolus oriolus",
           "commonName": "Eurasian Golden Oriole"
         },
         {
-          "scientificName": "Certhia brachydactyla",
+          "scientName": "Certhia brachydactyla",
           "commonName": "Short-toed Treecreeper"
         },
         {
-          "scientificName": "Caprimulgus europaeus",
+          "scientName": "Caprimulgus europaeus",
           "commonName": "European Nightjar"
         },
         {
-          "scientificName": "Asio otus",
+          "scientName": "Asio otus",
           "commonName": "Long-eared Owl"
         },
         {
-          "scientificName": "Regulus ignicapilla",
+          "scientName": "Regulus ignicapilla",
           "commonName": "Common Firecrest"
         },
         {
-          "scientificName": "Turdus viscivorus",
+          "scientName": "Turdus viscivorus",
           "commonName": "Mistle Thrush"
         },
         {
-          "scientificName": "Melospiza melodia",
+          "scientName": "Melospiza melodia",
           "commonName": "Song Sparrow"
         },
         {
-          "scientificName": "Certhia familiaris",
+          "scientName": "Certhia familiaris",
           "commonName": "Eurasian Treecreeper"
         },
         {
-          "scientificName": "Poecile montanus",
+          "scientName": "Poecile montanus",
           "commonName": "Willow Tit"
         },
         {
-          "scientificName": "Tringa ochropus",
+          "scientName": "Tringa ochropus",
           "commonName": "Green Sandpiper"
         },
         {
-          "scientificName": "Chroicocephalus ridibundus",
+          "scientName": "Chroicocephalus ridibundus",
           "commonName": "Black-headed Gull"
         },
         {
-          "scientificName": "Anthus pratensis",
+          "scientName": "Anthus pratensis",
           "commonName": "Meadow Pipit"
         },
         {
-          "scientificName": "Pica pica",
+          "scientName": "Pica pica",
           "commonName": "Eurasian Magpie"
         },
         {
-          "scientificName": "Phylloscopus sibilatrix",
+          "scientName": "Phylloscopus sibilatrix",
           "commonName": "Wood Warbler"
         },
         {
-          "scientificName": "Haematopus ostralegus",
+          "scientName": "Haematopus ostralegus",
           "commonName": "Eurasian Oystercatcher"
         },
         {
-          "scientificName": "Pluvialis apricaria",
+          "scientName": "Pluvialis apricaria",
           "commonName": "European Golden Plover"
         },
         {
-          "scientificName": "Anas platyrhynchos",
+          "scientName": "Anas platyrhynchos",
           "commonName": "Mallard"
         },
         {
-          "scientificName": "Luscinia svecica",
+          "scientName": "Luscinia svecica",
           "commonName": "Bluethroat"
         },
         {
-          "scientificName": "Tyto alba",
+          "scientName": "Tyto alba",
           "commonName": "Western Barn Owl"
         },
         {
-          "scientificName": "Lullula arborea",
+          "scientName": "Lullula arborea",
           "commonName": "Woodlark"
         },
         {
-          "scientificName": "Vanellus vanellus",
+          "scientName": "Vanellus vanellus",
           "commonName": "Northern Lapwing"
         },
         {
-          "scientificName": "Coloeus monedula",
+          "scientName": "Coloeus monedula",
           "commonName": "Western Jackdaw"
         },
         {
-          "scientificName": "Tringa nebularia",
+          "scientName": "Tringa nebularia",
           "commonName": "Common Greenshank"
         },
         {
-          "scientificName": "Picus viridis",
+          "scientName": "Picus viridis",
           "commonName": "European Green Woodpecker"
         },
         {
-          "scientificName": "Numenius phaeopus",
+          "scientName": "Numenius phaeopus",
           "commonName": "Eurasian Whimbrel"
         },
         {
-          "scientificName": "Acrocephalus arundinaceus",
+          "scientName": "Acrocephalus arundinaceus",
           "commonName": "Great Reed Warbler"
         },
         {
-          "scientificName": "Nycticorax nycticorax",
+          "scientName": "Nycticorax nycticorax",
           "commonName": "Black-crowned Night Heron"
         },
         {
-          "scientificName": "Grus grus",
+          "scientName": "Grus grus",
           "commonName": "Common Crane"
-        },
-        {
-          "scientificName": "Calidris alpina",
-          "commonName": "Dunlin"
-        },
-        {
-          "scientificName": "Charadrius dubius",
-          "commonName": "Little Ringed Plover"
-        },
-        {
-          "scientificName": "Anser anser",
-          "commonName": "Greylag Goose"
-        },
-        {
-          "scientificName": "Locustella naevia",
-          "commonName": "Common Grasshopper Warbler"
-        },
-        {
-          "scientificName": "Buteo buteo",
-          "commonName": "Common Buzzard"
-        },
-        {
-          "scientificName": "Lophophanes cristatus",
-          "commonName": "European Crested Tit"
-        },
-        {
-          "scientificName": "Botaurus stellaris",
-          "commonName": "Eurasian Bittern"
-        },
-        {
-          "scientificName": "Streptopelia decaocto",
-          "commonName": "Eurasian Collared Dove"
-        },
-        {
-          "scientificName": "Anas crecca",
-          "commonName": "Eurasian Teal"
-        },
-        {
-          "scientificName": "Cisticola juncidis",
-          "commonName": "Zitting Cisticola"
-        },
-        {
-          "scientificName": "Charadrius hiaticula",
-          "commonName": "Common Ringed Plover"
-        },
-        {
-          "scientificName": "Fringilla montifringilla",
-          "commonName": "Brambling"
-        },
-        {
-          "scientificName": "Dryobates minor",
-          "commonName": "Lesser Spotted Woodpecker"
-        },
-        {
-          "scientificName": "Turdus torquatus",
-          "commonName": "Ring Ouzel"
-        },
-        {
-          "scientificName": "Emberiza cirlus",
-          "commonName": "Cirl Bunting"
-        },
-        {
-          "scientificName": "Scolopax rusticola",
-          "commonName": "Eurasian Woodcock"
-        },
-        {
-          "scientificName": "Ficedula parva",
-          "commonName": "Red-breasted Flycatcher"
-        },
-        {
-          "scientificName": "Tringa glareola",
-          "commonName": "Wood Sandpiper"
-        },
-        {
-          "scientificName": "Phylloscopus inornatus",
-          "commonName": "Yellow-browed Warbler"
-        },
-        {
-          "scientificName": "Alcedo atthis",
-          "commonName": "Common Kingfisher"
-        },
-        {
-          "scientificName": "Motacilla cinerea",
-          "commonName": "Grey Wagtail"
-        },
-        {
-          "scientificName": "Cygnus cygnus",
-          "commonName": "Whooper Swan"
-        },
-        {
-          "scientificName": "Luscinia luscinia",
-          "commonName": "Thrush Nightingale"
-        },
-        {
-          "scientificName": "Columba palumbus",
-          "commonName": "Common Wood Pigeon"
-        },
-        {
-          "scientificName": "Carpodacus erythrinus",
-          "commonName": "Common Rosefinch"
-        },
-        {
-          "scientificName": "Hippolais polyglotta",
-          "commonName": "Melodious Warbler"
-        },
-        {
-          "scientificName": "Bubo bubo",
-          "commonName": "Eurasian Eagle-Owl"
-        },
-        {
-          "scientificName": "Anthus hodgsoni",
-          "commonName": "Olive-backed Pipit"
-        },
-        {
-          "scientificName": "Burhinus oedicnemus",
-          "commonName": "Eurasian Stone-curlew"
-        },
-        {
-          "scientificName": "Himantopus himantopus",
-          "commonName": "Black-winged Stilt"
-        },
-        {
-          "scientificName": "Turdus migratorius",
-          "commonName": "American Robin"
-        },
-        {
-          "scientificName": "Loxia pytyopsittacus",
-          "commonName": "Parrot Crossbill"
-        },
-        {
-          "scientificName": "Sterna hirundo",
-          "commonName": "Common Tern"
-        },
-        {
-          "scientificName": "Corvus frugilegus",
-          "commonName": "Rook"
-        },
-        {
-          "scientificName": "Apus apus",
-          "commonName": "Common Swift"
-        },
-        {
-          "scientificName": "Mareca penelope",
-          "commonName": "Eurasian Wigeon"
-        },
-        {
-          "scientificName": "Saxicola rubicola",
-          "commonName": "European Stonechat"
-        },
-        {
-          "scientificName": "Catharus ustulatus",
-          "commonName": "Swainson's Thrush"
-        },
-        {
-          "scientificName": "Phylloscopus ibericus",
-          "commonName": "Iberian Chiffchaff"
-        },
-        {
-          "scientificName": "Aegolius funereus",
-          "commonName": "Boreal Owl"
-        },
-        {
-          "scientificName": "Phylloscopus humei",
-          "commonName": "Hume's Leaf Warbler"
-        },
-        {
-          "scientificName": "Porzana porzana",
-          "commonName": "Spotted Crake"
-        },
-        {
-          "scientificName": "Picus canus",
-          "commonName": "Grey-headed Woodpecker"
-        },
-        {
-          "scientificName": "Crex crex",
-          "commonName": "Corn Crake"
-        },
-        {
-          "scientificName": "Glaucidium passerinum",
-          "commonName": "Eurasian Pygmy Owl"
-        },
-        {
-          "scientificName": "Ixobrychus minutus",
-          "commonName": "Little Bittern"
-        },
-        {
-          "scientificName": "Anthus spinoletta",
-          "commonName": "Water Pipit"
-        },
-        {
-          "scientificName": "Accipiter gentilis",
-          "commonName": "Northern Goshawk"
-        },
-        {
-          "scientificName": "Delichon urbicum",
-          "commonName": "Common House Martin"
-        },
-        {
-          "scientificName": "Phylloscopus fuscatus",
-          "commonName": "Dusky Warbler"
-        },
-        {
-          "scientificName": "Dendrocoptes medius",
-          "commonName": "Middle Spotted Woodpecker"
-        },
-        {
-          "scientificName": "Lanius collurio",
-          "commonName": "Red-backed Shrike"
-        },
-        {
-          "scientificName": "Phylloscopus trochiloides",
-          "commonName": "Greenish Warbler"
-        },
-        {
-          "scientificName": "Geothlypis trichas",
-          "commonName": "Common Yellowthroat"
-        },
-        {
-          "scientificName": "Phasianus colchicus",
-          "commonName": "Common Pheasant"
-        },
-        {
-          "scientificName": "Phylloscopus bonelli",
-          "commonName": "Western Bonelli's Warbler"
-        },
-        {
-          "scientificName": "Locustella luscinioides",
-          "commonName": "Savi's Warbler"
-        },
-        {
-          "scientificName": "Junco hyemalis",
-          "commonName": "Dark-eyed Junco"
-        },
-        {
-          "scientificName": "Merops apiaster",
-          "commonName": "European Bee-eater"
-        },
-        {
-          "scientificName": "Otus scops",
-          "commonName": "Eurasian Scops Owl"
-        },
-        {
-          "scientificName": "Jynx torquilla",
-          "commonName": "Eurasian Wryneck"
-        },
-        {
-          "scientificName": "Pluvialis squatarola",
-          "commonName": "Grey Plover"
-        },
-        {
-          "scientificName": "Upupa epops",
-          "commonName": "Eurasian Hoopoe"
-        },
-        {
-          "scientificName": "Acanthis flammea",
-          "commonName": "Common Redpoll"
-        },
-        {
-          "scientificName": "Melanitta nigra",
-          "commonName": "Common Scoter"
-        },
-        {
-          "scientificName": "Larus argentatus",
-          "commonName": "European Herring Gull"
-        },
-        {
-          "scientificName": "Branta canadensis",
-          "commonName": "Canada Goose"
-        },
-        {
-          "scientificName": "Saxicola rubetra",
-          "commonName": "Whinchat"
-        },
-        {
-          "scientificName": "Larus canus",
-          "commonName": "Common Gull"
-        },
-        {
-          "scientificName": "Branta leucopsis",
-          "commonName": "Barnacle Goose"
-        },
-        {
-          "scientificName": "Galerida cristata",
-          "commonName": "Crested Lark"
-        },
-        {
-          "scientificName": "Falco tinnunculus",
-          "commonName": "Common Kestrel"
-        },
-        {
-          "scientificName": "Cygnus olor",
-          "commonName": "Mute Swan"
-        },
-        {
-          "scientificName": "Anser albifrons",
-          "commonName": "Greater White-fronted Goose"
-        },
-        {
-          "scientificName": "Calcarius lapponicus",
-          "commonName": "Lapland Longspur"
-        },
-        {
-          "scientificName": "Locustella fluviatilis",
-          "commonName": "River Warbler"
-        },
-        {
-          "scientificName": "Mimus polyglottos",
-          "commonName": "Northern Mockingbird"
-        },
-        {
-          "scientificName": "Zonotrichia leucophrys",
-          "commonName": "White-crowned Sparrow"
-        },
-        {
-          "scientificName": "Larus michahellis",
-          "commonName": "Yellow-legged Gull"
-        },
-        {
-          "scientificName": "Egretta garzetta",
-          "commonName": "Little Egret"
-        },
-        {
-          "scientificName": "Psittacula krameri",
-          "commonName": "Rose-ringed Parakeet"
-        },
-        {
-          "scientificName": "Zonotrichia albicollis",
-          "commonName": "White-throated Sparrow"
-        },
-        {
-          "scientificName": "Anthus campestris",
-          "commonName": "Tawny Pipit"
-        },
-        {
-          "scientificName": "Thalasseus sandvicensis",
-          "commonName": "Sandwich Tern"
-        },
-        {
-          "scientificName": "Recurvirostra avosetta",
-          "commonName": "Pied Avocet"
-        },
-        {
-          "scientificName": "Limosa limosa",
-          "commonName": "Black-tailed Godwit"
-        },
-        {
-          "scientificName": "Anthus cervinus",
-          "commonName": "Red-throated Pipit"
-        },
-        {
-          "scientificName": "Mareca strepera",
-          "commonName": "Gadwall"
         }
       ]
     },
@@ -2660,203 +1624,203 @@
       "location": "australia",
       "species": [
         {
-          "scientificName": "Turdus merula",
+          "scientName": "Turdus merula",
           "commonName": "Common Blackbird"
         },
         {
-          "scientificName": "Fringilla coelebs",
+          "scientName": "Fringilla coelebs",
           "commonName": "Common Chaffinch"
         },
         {
-          "scientificName": "Turdus philomelos",
+          "scientName": "Turdus philomelos",
           "commonName": "Song Thrush"
         },
         {
-          "scientificName": "Emberiza citrinella",
+          "scientName": "Emberiza citrinella",
           "commonName": "Yellowhammer"
         },
         {
-          "scientificName": "Alauda arvensis",
+          "scientName": "Alauda arvensis",
           "commonName": "Eurasian Skylark"
         },
         {
-          "scientificName": "Passer domesticus",
+          "scientName": "Passer domesticus",
           "commonName": "House Sparrow"
         },
         {
-          "scientificName": "Prunella modularis",
+          "scientName": "Prunella modularis",
           "commonName": "Dunnock"
         },
         {
-          "scientificName": "Passer montanus",
+          "scientName": "Passer montanus",
           "commonName": "Eurasian Tree Sparrow"
         },
         {
-          "scientificName": "Motacilla flava",
+          "scientName": "Motacilla flava",
           "commonName": "Western Yellow Wagtail"
         },
         {
-          "scientificName": "Gallinula chloropus",
+          "scientName": "Gallinula chloropus",
           "commonName": "Common Moorhen"
         },
         {
-          "scientificName": "Chloris chloris",
+          "scientName": "Chloris chloris",
           "commonName": "European Greenfinch"
         },
         {
-          "scientificName": "Carduelis carduelis",
+          "scientName": "Carduelis carduelis",
           "commonName": "European Goldfinch"
         },
         {
-          "scientificName": "Fulica atra",
+          "scientName": "Fulica atra",
           "commonName": "Eurasian Coot"
         },
         {
-          "scientificName": "Sturnus vulgaris",
+          "scientName": "Sturnus vulgaris",
           "commonName": "Common Starling"
         },
         {
-          "scientificName": "Hirundo rustica",
+          "scientName": "Hirundo rustica",
           "commonName": "Barn Swallow"
         },
         {
-          "scientificName": "Actitis hypoleucos",
+          "scientName": "Actitis hypoleucos",
           "commonName": "Common Sandpiper"
         },
         {
-          "scientificName": "Numenius arquata",
+          "scientName": "Numenius arquata",
           "commonName": "Eurasian Curlew"
         },
         {
-          "scientificName": "Motacilla alba",
+          "scientName": "Motacilla alba",
           "commonName": "White Wagtail"
         },
         {
-          "scientificName": "Tachybaptus ruficollis",
+          "scientName": "Tachybaptus ruficollis",
           "commonName": "Little Grebe"
         },
         {
-          "scientificName": "Tringa totanus",
+          "scientName": "Tringa totanus",
           "commonName": "Common Redshank"
         },
         {
-          "scientificName": "Athene noctua",
+          "scientName": "Athene noctua",
           "commonName": "Little Owl"
         },
         {
-          "scientificName": "Tringa ochropus",
+          "scientName": "Tringa ochropus",
           "commonName": "Green Sandpiper"
         },
         {
-          "scientificName": "Chroicocephalus ridibundus",
+          "scientName": "Chroicocephalus ridibundus",
           "commonName": "Black-headed Gull"
         },
         {
-          "scientificName": "Anas platyrhynchos",
+          "scientName": "Anas platyrhynchos",
           "commonName": "Mallard"
         },
         {
-          "scientificName": "Tyto alba",
+          "scientName": "Tyto alba",
           "commonName": "Western Barn Owl"
         },
         {
-          "scientificName": "Tringa nebularia",
+          "scientName": "Tringa nebularia",
           "commonName": "Common Greenshank"
         },
         {
-          "scientificName": "Numenius phaeopus",
+          "scientName": "Numenius phaeopus",
           "commonName": "Eurasian Whimbrel"
         },
         {
-          "scientificName": "Nycticorax nycticorax",
+          "scientName": "Nycticorax nycticorax",
           "commonName": "Black-crowned Night Heron"
         },
         {
-          "scientificName": "Calidris alpina",
+          "scientName": "Calidris alpina",
           "commonName": "Dunlin"
         },
         {
-          "scientificName": "Charadrius dubius",
+          "scientName": "Charadrius dubius",
           "commonName": "Little Ringed Plover"
         },
         {
-          "scientificName": "Anser anser",
+          "scientName": "Anser anser",
           "commonName": "Greylag Goose"
         },
         {
-          "scientificName": "Cisticola juncidis",
+          "scientName": "Cisticola juncidis",
           "commonName": "Zitting Cisticola"
         },
         {
-          "scientificName": "Charadrius hiaticula",
+          "scientName": "Charadrius hiaticula",
           "commonName": "Common Ringed Plover"
         },
         {
-          "scientificName": "Emberiza cirlus",
+          "scientName": "Emberiza cirlus",
           "commonName": "Cirl Bunting"
         },
         {
-          "scientificName": "Tringa glareola",
+          "scientName": "Tringa glareola",
           "commonName": "Wood Sandpiper"
         },
         {
-          "scientificName": "Alcedo atthis",
+          "scientName": "Alcedo atthis",
           "commonName": "Common Kingfisher"
         },
         {
-          "scientificName": "Motacilla cinerea",
+          "scientName": "Motacilla cinerea",
           "commonName": "Grey Wagtail"
         },
         {
-          "scientificName": "Sterna hirundo",
+          "scientName": "Sterna hirundo",
           "commonName": "Common Tern"
         },
         {
-          "scientificName": "Corvus frugilegus",
+          "scientName": "Corvus frugilegus",
           "commonName": "Rook"
         },
         {
-          "scientificName": "Mareca penelope",
+          "scientName": "Mareca penelope",
           "commonName": "Eurasian Wigeon"
         },
         {
-          "scientificName": "Ixobrychus minutus",
+          "scientName": "Ixobrychus minutus",
           "commonName": "Little Bittern"
         },
         {
-          "scientificName": "Phasianus colchicus",
+          "scientName": "Phasianus colchicus",
           "commonName": "Common Pheasant"
         },
         {
-          "scientificName": "Pluvialis squatarola",
+          "scientName": "Pluvialis squatarola",
           "commonName": "Grey Plover"
         },
         {
-          "scientificName": "Upupa epops",
+          "scientName": "Upupa epops",
           "commonName": "Eurasian Hoopoe"
         },
         {
-          "scientificName": "Acanthis flammea",
+          "scientName": "Acanthis flammea",
           "commonName": "Common Redpoll"
         },
         {
-          "scientificName": "Branta canadensis",
+          "scientName": "Branta canadensis",
           "commonName": "Canada Goose"
         },
         {
-          "scientificName": "Cygnus olor",
+          "scientName": "Cygnus olor",
           "commonName": "Mute Swan"
         },
         {
-          "scientificName": "Egretta garzetta",
+          "scientName": "Egretta garzetta",
           "commonName": "Little Egret"
         },
         {
-          "scientificName": "Limosa limosa",
+          "scientName": "Limosa limosa",
           "commonName": "Black-tailed Godwit"
         },
         {
-          "scientificName": "Anthus cervinus",
+          "scientName": "Anthus cervinus",
           "commonName": "Red-throated Pipit"
         }
       ]
